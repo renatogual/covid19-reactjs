@@ -9,7 +9,7 @@ function App() {
       <CssBaseline />
       <GlobalStyle />
       <div>
-        teste
+        teste commit
       </div>
     </StylesProvider>
   );

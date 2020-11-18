@@ -1,6 +1,7 @@
 import React, { memo, useCallback, useEffect, useState } from 'react' //O memo evita re-renderizar a pagina, utilizado em componentes que só precisam ser renderizados uma vez
 import Api from '../../api'
 import { ContainerStyled } from './style'
+import Board from './components/Board'
 
 function Main(){
     const [data, setData] = useState({})
@@ -21,6 +22,7 @@ function Main(){
             <div className="mb-2">
 
             </div>
+            <Board data={data} />
         </ContainerStyled>
     )
 }

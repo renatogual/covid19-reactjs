@@ -3,9 +3,6 @@ Painel com informações estatísticas do Covid19 entre países criado com React
 
 Foi criado uma aplicação PWA que consulta uma api externa com os dados atualizados do Covid19 e os renderiza através de cards na tela.
 
-Foi seguido o tutorial do canal Codeforges TM
-link: https://www.youtube.com/watch?v=nz6yFTyLbAQ&list=PLq1kZ5GbKd4qyDcK3IHGSi4FDAL6fRZeL
-
 ## Ferramentas utilizadas :wrench: 
 - [Visual Studio Code](https://code.visualstudio.com/)
 - [Reactjs](https://pt-br.reactjs.org/)
